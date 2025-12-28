@@ -1,0 +1,9 @@
+.
+./src
+./src//lib
+./src/lib/./utils.c
+./src/lib//math.c
+./docs
+./docs/./design.md
+./assets/icons//logo.svg
+./empty_dir

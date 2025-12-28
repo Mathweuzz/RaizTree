@@ -1,0 +1,13 @@
+.
+├── README.md
+├── assets
+│   └── icons
+├── docs
+│   └── design.md
+├── empty_dir
+└── src
+    ├── bin
+    ├── lib
+    └── main.c
+
+7 directories, 3 files

@@ -1,0 +1,13 @@
+.
+├── assets
+│   └── icons
+│       └── logo.svg
+├── docs
+│   └── design.md
+├── empty_dir
+└── src
+    └── lib
+        ├── math.c
+        └── utils.c
+
+5 directories, 5 files

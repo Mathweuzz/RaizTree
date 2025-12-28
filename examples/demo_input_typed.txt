@@ -1,0 +1,15 @@
+d .
+d ./empty_dir
+d ./src
+d ./src/bin
+f ./src/bin/app
+d ./src/lib
+f ./src/lib/math.c
+f ./src/lib/utils.c
+f ./src/main.c
+d ./docs
+f ./docs/design.md
+d ./assets
+d ./assets/icons
+f ./assets/icons/logo.svg
+f ./README.md
